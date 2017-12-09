@@ -12,7 +12,7 @@
 
 ------------------------------
 
-### Day 1: December 07, 2017
+### Day 2: December 08, 2017
 
 **Today's Progress**: Working on FreeCodeCamp portfolio project
 
