@@ -11,3 +11,14 @@
 [New version](https://codepen.io/vpnydv10year/full/NwVZEm)
 
 ------------------------------
+
+### Day 1: December 07, 2017
+
+**Today's Progress**: Working on FreeCodeCamp portfolio project
+
+**Thoughts:** Like previous day, I started it earlier but somehow wasn't able to complete. It's not complete yet as I am not satisfied with it. Need to include CSS animations and interactive menu, also I think I should change the design. Anyway I'll work on it during rest of days.
+
+**Link to work:**   
+[My Portfolio](https://codepen.io/vpnydv10year/full/mMYagO)  
+
+------------------------------
