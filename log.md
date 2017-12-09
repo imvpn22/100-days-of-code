@@ -8,7 +8,7 @@
 
 **Link to work:**   
 [Previously with Bootstrap](https://codepen.io/vpnydv10year/full/qXGQXo)  
-[New version](https://codepen.io/vpnydv10year/full/NwVZEm)
+[New version](https://codepen.io/vpnydv10year/full/NwVZEm)  
 
 ------------------------------
 
@@ -20,5 +20,18 @@
 
 **Link to work:**   
 [My Portfolio](https://codepen.io/vpnydv10year/full/mMYagO)  
+
+------------------------------
+
+### Day 3: December 09, 2017
+
+**Today's Progress**: Revised JavaScript at FreeCodeCamp and MDN
+
+**Thoughts:** I was thinking about starting a react project but for that I needed a revision of JavaScript, and [first tutorial on react](https://reactjs.org/tutorial/tutorial.html) also suggest to do so. I headed to FreeCodeCamp and quickly revised JS using their interactive challenge based tutorial. I don't think I am having complete command on JS yet, so I'll go back to FCC tommorow and head into their coding challenges.
+
+**Link to work** Not worked on any project today, but I can give the link for JS revision  
+[FCC Basic JS](https://www.freecodecamp.org/map-aside#nested-collapseBasicJavaScript)  
+[Object-Oriented and Functional Programming](https://www.freecodecamp.org/map-aside#nested-collapseObjectOrientedandFunctionalProgramming)  
+[MDN JS Tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)  
 
 ------------------------------
